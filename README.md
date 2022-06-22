@@ -1,10 +1,9 @@
 ## Create a RDS service using Terraform.
-
--------------
+#### Amazon RDS is a managed relational database service that provides you six familiar database engines to choose from, including Amazon Aurora, MySQL, MariaDB, Oracle, Microsoft SQL Server, and PostgreSQL. This means that the code, applications, and tools you already use today with your existing databases can be used with Amazon RDS. Amazon RDS handles routine database tasks such as provisioning, patching, backup, recovery, failure detection, and repair. You can follow this [link](https://aws.amazon.com/rds/) to know more.
 
 **Files:** 
 ```
-    module.tf
+    main.tf
     provider.tf
     resource.tf 
 ```
